@@ -1,2 +1,2 @@
 # Apprentissage-Github
-Cour sur Git et Github
+Cours sur Git et Github
